@@ -4,12 +4,12 @@
 #
 #    conda env create -f environment.yml
 #    conda env update --file environment.yml --prune
-#    conda env export --name attention-is-all-you-need > environment.yml
-#    conda env remove --name attention-is-all-you-need
+#    conda env export --name atto-gpt > environment.yml
+#    conda env remove --name atto-gpt
 #    conda env list
-#    conda activate attention-is-all-you-need
+#    conda activate atto-gpt
 
-name: attention-is-all-you-need
+name: atto-gpt
 channels:
   - anaconda
   - conda-forge

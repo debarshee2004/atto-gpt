@@ -2,3 +2,10 @@
 # python -m venv .venv
 # .venv\Scripts\Activate.ps1
 # pip install -r requirements.txt
+torch 
+numpy 
+transformers 
+datasets 
+tiktoken 
+wandb 
+tqdm
