@@ -1,4 +1,4 @@
-#Atto-GPT: A Minimal GPT from Scratch
+# Atto-GPT: A Minimal GPT from Scratch
 
 Atto-GPT is a minimal implementation of the Generative Pre-trained Transformer (GPT) architecture from scratch, following the foundational concepts laid out in the GPT family of models. The primary goal of this project is to provide an educational and simple implementation of GPT, focusing on its core components and training process using PyTorch.
 
